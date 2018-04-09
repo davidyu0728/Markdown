@@ -6,11 +6,11 @@
 - Softwarequalität
 
 ## 1. Konfigurationsmanagment
-###1.1 Difinition und Abgrenzung von Konfigurationsmanagment
+### 1.1 Difinition und Abgrenzung von Konfigurationsmanagment
 
-####  Das Navigationssystem der Softwareentwicklung ist das Konfigurationsmanagement
+#### Das Navigationssystem der Softwareentwicklung ist das Konfigurationsmanagement
 
-####Ausgangssituation
+#### Ausgangssituation
 
 Ein Projekt
 
@@ -119,13 +119,13 @@ zur Verwaltung aller Arbeitsergebnisse der Entwicklung und ihrer Änderungsgesch
 
 - Definierte Menge von Verwaltungseinheiten (Dateien), die zusammen ein sinn-volles Ganzes ergeben
 - Bei der Konfiguration werden keine Aussagen zur Version gemacht
-![](file:///C:/Users/david/Pictures/1.PNG)
+![](https://i.loli.net/2018/04/10/5acbe59a6632b.png)
 
 ##### Komplexe Konfiguration
 ![](https://i.loli.net/2018/04/09/5acb39f3dd4fb.jpg)
 
 ##### Überlappende Konfigurationen
-![](file:///C:/Users/david/Pictures/3.JPG)
+![(https://i.loli.net/2018/04/10/5acbe5c3e3f94.jpg)
 
 #### Version
 - Versionsbegriff bezieht sich auf eine atomare Verwaltungseinheit
@@ -143,7 +143,7 @@ zur Verwaltung aller Arbeitsergebnisse der Entwicklung und ihrer Änderungsgesch
 
 - Baseline beschreibt den Entwicklungsstand einer Konfiguration
 - Zu einem bestimmten Zeitpunkt formell gekennzeichnete und festgeschriebene Konfiguration
-![](file:///C:/Users/david/Pictures/4.JPG)
+![](https://i.loli.net/2018/04/10/5acbe5d8363eb.jpg)
 
 #### Release
 
@@ -155,21 +155,21 @@ zur Verwaltung aller Arbeitsergebnisse der Entwicklung und ihrer Änderungsgesch
 - Ausgeliefert wird: Konfiguration Fernwirksystem
 - Basiert auf Baseline vom 10.01.16
 - Änderungen: Modem.H;5
-![](file:///C:/Users/david/Pictures/5.JPG)
+![](https://i.loli.net/2018/04/10/5acbe5ed6e474.jpg)
 
 #### Zusammenführung der Begriffe
-![](file:///C:/Users/david/Pictures/6.JPG)
+![](https://i.loli.net/2018/04/10/5acbe5f68103d.jpg)
 
 #### Variante
 
 - Durch Parametrisierung oder Modifikation werden spezielle Kundenwünsche erzeugt und installiert
 - Unterschiedliche Hardware mit unterschiedlicher Basissoftware
-![](file:///C:/Users/david/Pictures/7.JPG)
+![](https://i.loli.net/2018/04/10/5acbe61b789e2.jpg)
 
 #### Verzweigte Versionierung
 Problemstellung
 
 - Fehlerhaftes Vertriebsprodukt (basierend auf Basline vom 01.06.09)
 - "Schnittstelle.H" ist zu korrigieren (am 10.01.10)
+![](https://i.loli.net/2018/04/10/5acbe6c6cb4ab.jpg)
 
-![](file:///C:/Users/david/Pictures/8.bmp)
